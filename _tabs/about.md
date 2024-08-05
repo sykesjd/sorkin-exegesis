@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+The blog in which we celebrate the Sorkinism phenomenon - read the [introduction post](https://sykesjd.github.io/sorkin-exegesis/posts/introduction/) to learn more.
