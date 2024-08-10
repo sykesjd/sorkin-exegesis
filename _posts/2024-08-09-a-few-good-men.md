@@ -5,7 +5,7 @@ author: sykesjd
 date: 2024-08-09 19:00:00 -0400
 categories: [Blog, Movie]
 tags: [movie]
-pin: true
+published: true
 ---
 
 > TITLE: A Few Good Men
