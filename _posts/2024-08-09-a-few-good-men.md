@@ -101,6 +101,7 @@ Goddammit, not him! Why did we cast him?!
 > SPRADLING: You're stalling on this thing. Now we either do it now, or no kidding, Kaffee, I'm gonna hang your boy from a fucking yardarm.
 > 
 > KAFFEE: A yardarm? _(to teammate)_ Sherby, does the Navy still hang people from yardarms?
+> 
 > SHERBY: I don't think so.
 > 
 > KAFFEE: _(back to Spradling)_ Dave, Sherby doesn't think the Navy hangs people from yardarms anymore.
@@ -325,11 +326,11 @@ This is one of the few times in Sorkin works where the résumé being recited is
 
 This line has never really sat right with me, so I feel somewhat validated by the fact that this line is different from what was written for the stageplay. From the stageplay:
 
-> KAFFEE: _(pause)_ I may be picking the wrong time to ask you this but are you seeing anyone right now? — 'cause I think you and I would be perfect together. It's clear that you respect me and that's the foundation for any solid—
+> STAGE KAFFEE: _(pause)_ I may be picking the wrong time to ask you this but are you seeing anyone right now? — 'cause I think you and I would be perfect together. It's clear that you respect me and that's the foundation for any solid—
 > 
-> GALLOWAY: Shut up.
+> STAGE GALLOWAY: Shut up.
 > 
-> KAFFEE: Yes ma'am.
+> STAGE KAFFEE: Yes ma'am.
 
 Not only does that version of the line introduce a Sorkinism we'll see again several times, it serves to establish an unambiguous response from Galloway to the advance from Kaffee, which is missing from the screenplay. It's almost as if she were rewritten to have just stepped off the Love Boat.
 
@@ -511,7 +512,7 @@ Some lines in the stageplay got cut for the screenplay, which as a result makes 
 
 This meeting Kendrick refers to is actually depicted in the stageplay but withheld for the screenplay. In the stageplay's rendition of the meeting, it's made explicit that the platoon is split into four squads, named Alpha to Delta respectively — something else that got lost from stage to screen, as I alluded to earlier. Kendrick goes one by one through squads Alpha, Bravo, and Charlie to threaten different kinds of retribution on each of them if they were to execute a Code Red against Santiago. As for Lance Corporal Dawson and his Delta squad less two...
 
-> _(KAFFEE runs a hand across the contents of Santiago's footlocker)
+> _(KAFFEE runs a hand across the contents of Santiago's footlocker)_
 
 Another well executed "show, don't tell": the audience is shown the neatly organized contents of Santiago's footlocker, rather than told its contents like in the stageplay when the case is first given to Kaffee. This makes for a more telling pay-off (if you'll forgive the pun) as we'll see later on.
 
@@ -773,9 +774,9 @@ Dude, really? You're gonna throw in a dig at the defense attorney in your openin
 
 It occurs to me that the defense basically paid no mind at all to the Conduct Unbecoming charge. Probably just as well in light of the other charges, but on that charge this last statement doesn't help their case at all.
 
-> ROSS: Mr. McGuire, would you raise your right hand, please?
-
 ### DROPPED Verbal tic: How ya doin'
+
+> ROSS: Mr. McGuire, would you raise your right hand, please?
 
 In the draft screenplay, we get Kaffee throwing a "how ya doin'" at an unresponsive Dawson while Mr. McGuire is sworn in. Instead, in the final product they just share a disconnected look.
 
