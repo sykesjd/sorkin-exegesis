@@ -6,4 +6,5 @@ gemspec
 
 group :test do
   gem "html-proofer", "~> 5.0"
+  gem "rexml", ">= 3.3.6"
 end
