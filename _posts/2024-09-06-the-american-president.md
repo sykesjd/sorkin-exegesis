@@ -723,6 +723,14 @@ You know, come to think of it, how is it that more women know how to tie bowties
 
 "Well, okay, but she's a _woman_, not a girl, so..."
 
+### NEW Sorkin Name: Esther
+
+> A.J.: You know my wife, Esther.
+> 
+> SYDNEY: Sure, it's nice to see you again.
+> 
+> ...
+> 
 > ESTHER: Men like being insulted by women, it makes them feel loved.
 
 I'm insulted by that! Wait...
