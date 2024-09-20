@@ -7,4 +7,5 @@ gemspec
 group :test do
   gem "html-proofer", "~> 5.0"
   gem "rexml", ">= 3.3.6"
+  gem "google-protobuf", ">= 4.27.5"
 end

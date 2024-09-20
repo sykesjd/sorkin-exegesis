@@ -312,7 +312,7 @@ Once again, Kaffee asking another Navy officer to join his softball team is cut 
 
 She's IA, man, she doesn't have that kind of time.<sup>foreshadowing detected</sup>
 
-### NEW Verbal tic: Résumé recitation
+### NEW Verbal Tic: Résumé recitation
 
 > GALLOWAY: You're wrong — I do know you: Daniel Alistair Kaffee, born June 8th, 1964 at Boston Mercy Hospital. Your father's Lionel Kaffee, former Navy judge advocate and Attorney General of the United States, died 1985. You went to Harvard Law, then you joined the Navy...
 
@@ -731,7 +731,7 @@ In this added-in line, Kaffee implies they have essentially no control over memb
 > 
 > KAFFEE: _(beat)_ Okay. Good tip.
 
-### DROPPED Verbal tic: Bet your ass
+### DROPPED Verbal Tic: Bet your ass
 
 > GALLOWAY: We're ready
 > 
@@ -774,7 +774,7 @@ Dude, really? You're gonna throw in a dig at the defense attorney in your openin
 
 It occurs to me that the defense basically paid no mind at all to the Conduct Unbecoming charge. Probably just as well in light of the other charges, but on that charge this last statement doesn't help their case at all.
 
-### DROPPED Verbal tic: How ya doin'
+### DROPPED Verbal Tic: How ya doin'
 
 > ROSS: Mr. McGuire, would you raise your right hand, please?
 
@@ -911,7 +911,7 @@ Stunning specificity, man...
 
 That's some Sorkinese 101 right there!
 
-### RETURNING Verbal tic: Résumé recitation
+### RETURNING Verbal Tic: Résumé recitation
 <sup>Running count: 2</sup>
 
 > GALLOWAY: After that they moved me to Internal Affairs.
@@ -1009,11 +1009,11 @@ Huh... I guess not enough money was exchanged to have Best Western's name droppe
 
 In the stageplay, Markinson included with his letter two photocopies, one of the Gitmo tower chief's log and one of the Andrews log, which in a previous scene were shown to be obtained by Markinson holding the records keeper at gunpoint. The removal of that bit necessitated a rearrangement in how the logs are treated later.
 
-### NEW Dialogue motif: Beat the shit out of X
+### NEW Dialogue Motif: Beat the shit out of X
 
 > KAFFEE: I wanna tell you that I think the whole fucking bunch of you are certifiably insane. This code of honor of yours makes me want to beat the shit out of something.
 
-### NEW Dialogue motif: Represent without passion or prejudice
+### NEW Dialogue Motif: Represent without passion or prejudice
 
 > ROSS: Don't you dare lump me in with Jessup and Kendrick just 'cause we wear the same uniform. I'm your friend, and I'm telling you, I don't think your clients belong in jail, but I don't get to make that decision. I represent the Government of the United States without passion or prejudice.
 
@@ -1191,7 +1191,7 @@ Written out of the screenplay from the stageplay is Kaffee telling Galloway to "
 
 Yeah, I'm sure he's proud of his son having no responsibilities whatsoever.
 
-### NEW Verbal tic: Here's the thing
+### NEW Verbal Tic: Here's the thing
 
 > KAFFEE: Would you put Jessup on the stand?
 > 
@@ -1367,7 +1367,7 @@ Wait, was that supposed to be an antisemitic crack? Having the one other person 
 
 > JESSUP: I have neither the time nor the inclination to explain myself to a man who rises and sleeps under the blanket of the freedom I provide and then questions the manner in which I provide it.
 
-### NEW Verbal tic: Don't give a damn
+### NEW Verbal Tic: Don't give a damn
 
 > JESSUP: I would rather you just said thank you and went on your way. Otherwise, I suggest you pick up a weapon and stand a post. Either way, I don't give a damn what you think you are entitled to!
 >

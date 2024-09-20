@@ -41,10 +41,10 @@ GEM
       fiber-storage
     fiber-storage (0.1.2)
     forwardable-extended (2.6.0)
-    google-protobuf (4.27.3-arm64-darwin)
+    google-protobuf (4.28.2-arm64-darwin)
       bigdecimal
       rake (>= 13)
-    google-protobuf (4.27.3-x86_64-linux)
+    google-protobuf (4.28.2-x86_64-linux)
       bigdecimal
       rake (>= 13)
     hashery (2.1.2)
@@ -146,6 +146,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  google-protobuf (>= 4.27.5)
   html-proofer (~> 5.0)
   jekyll-theme-chirpy!
   rexml (>= 3.3.6)
