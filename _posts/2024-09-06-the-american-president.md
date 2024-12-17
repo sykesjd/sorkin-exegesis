@@ -1199,11 +1199,21 @@ Wow, way to entrap her...
 
 Hey, man, hyper-salivation could be an indicator of a serious health issue, she may be right to worry.
 
-> SHEPHERD: I'll bet none of those First Ladies were nervous about having sex with their President husbands. Do you know why?
+> SHEPHERD: Last night when we were looking at the different place settings in the dish room, I realized that those place settings were provided by the First Ladies...
+
+Wait a minute... I need to rewind real quick:
+
+> SYDNEY: Mr. President — have you ever noticed how similar the Van Buren flatware is to the Buchanan flatware?
+
+Objection — Buchanan was a bachelor! How could Buchanan have flatware in the china room if the contents of the china room were provided by First Spouses? Something's not adding up here...
+
+> SHEPHERD: ... and I'll bet none of those First Ladies were nervous about having sex with their President husbands. Do you know why?
 > 
 > SYDNEY: ... No, but I'm sure you'll explain it to me.
 
 "... in the most patronizing manner possible."
+
+### NEW Plot Bunny: Sudden Relationship Accelerant™
 
 > SHEPHERD: Sydney, I'm in no rush. Here's my plan — we're gonna slow down, and when you're comfortable, that's when it's gonna happen.
 > 
