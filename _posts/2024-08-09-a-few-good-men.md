@@ -43,6 +43,10 @@ Incidentally, this comparison is a bit of a stretch so I won't label it as a pro
 ### NEW Sorkin Player: David Bowe
 <sup>Character: Commander Gibbs</sup>
 
+> GIBBS: Jo — come on in.
+>
+> ...
+> 
 > WEST: Would you like to sit down?
 > 
 > GALLOWAY: I'm fine, sir.
@@ -228,7 +232,7 @@ The name Shangri-La originally came from the 1933 novel _Lost Horizon_, which es
 
 > JESSUP: This kid broke the chain of command and ratted on a member of his unit, to say nothing of the fact that he is a US Marine and it would appear he can't run from here to there without collapsing from heat exhaustion.
 
-The use of the term "ratted on" suggests the image of a mafia don on the hunt for undercover infiltrators in a way that I'm not completely certain was intentional. It should be noted that the US military ended up banning screening of this film on military bases due primarily due to its depiction of the Marines, and I suspect that inferable comparison may have been part of the decision.
+The use of the term "ratted on" suggests the image of a mafia don on the hunt for undercover infiltrators in a way that I'm not completely certain was intentional. It should be noted that the US military ended up banning screening of this film on military bases due primarily to its depiction of the Marines, and I suspect that inferable comparison may have been part of the decision.
 
 > MARKINSON: Colonel, I think it would be better to hold this discussion in private.
 >
@@ -286,7 +290,7 @@ In between screenplay and shooting, Markinson was promoted from Captain to Lieut
 ### NEW Sorkin Player: Ron Ostrow
 <sup>Character: M.P.</sup>
 
-Ron Ostrow is another actor who started out with Mr. Sorkin in the Broadway production of _A Few Good Men_, also in a minor role, whose presence would go on to be littered throughout Sorkin's work for the screen — even more so that Joshua Malina. I would contend there are people reading this now who couldn't even name every single appearance he's made in Sorkin works.
+Ron Ostrow is another actor who started out with Mr. Sorkin in the Broadway production of _A Few Good Men_, also in a minor role, whose presence would go on to be littered throughout Sorkin's work for the screen — even more so than Joshua Malina. I would contend there are people reading this now who couldn't even name every single appearance he's made in Sorkin works.
 
 To be honest, though, I kind of wish he'd been given a better first appearance:
 
