@@ -450,6 +450,8 @@ Hey, Goober got married? Congrats, man! ([I'm legally required to make that joke
 
 Mr. Sorkin reportedly has received inspiration for writing ideas while driving and listening to the radio, so I wouldn't be surprised if that line were an unconscious (or even conscious) bit of osmosis from radio.
 
+### NEW Sorkin Name: Luther
+
 > KAFFEE: How's it going, Luther?
 > 
 > LUTHER: Another day, another dollar, Captain.

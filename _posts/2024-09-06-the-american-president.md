@@ -34,6 +34,8 @@ Fun fact: I bet you can't even guess who in real life has received the Secret Se
 
 ### NEW Dialogue Motif: Wouldn't be a day
 
+### NEW Sorkin Name: Lewis
+
 > JANIE: Mr. Rothschild asked to have a moment with you this morning.
 > 
 > SHEPHERD: Is he upset about the speech last night?
@@ -71,8 +73,6 @@ Stunning specificity, man...
 > LEWIS: Yes, sir.
 
 You see what I mean about the musicality? Man, I love this writer...
-
-### NEW Sorkin Name: Lewis
 
 > SHEPHERD: Lewis, however much coffee you drink in the morning, I want you to reduce it by half.
 > 
@@ -692,6 +692,12 @@ Strangely enough, this exchange got expanded upon from how it is in the original
 > LLOYD: I'm standing here with Senate Minority Leader Robert Rumson, just one of the many guests arriving at what, for the next few hours at least, is a non-partisan White House.
 
 Every time I see him on screen now, I hear Joshua Malina singing his name to the tune "O Canada".
+
+### NEW Sorkin Name: Lloyd
+
+> RUMSON: Lloyd, it's a long time 'til next November. Right now, I'm just looking forward to a pleasant evening.
+
+Alright, I'm sure that interaction wasn't important at all...<sup>sarcasm detected</sup>
 
 > SHEPHERD: That's a little tight, Luce.
 > 
