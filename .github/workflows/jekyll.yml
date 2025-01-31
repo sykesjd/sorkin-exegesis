@@ -7,8 +7,11 @@ on:
       - .gitignore
       - README.md
       - LICENSE
-  schedule:
-    - cron: '0 11,12 * * Fri'
+  # Previously tried scheduling runs to remove the need to wait to push until each publish date,
+  # but as it turns out scheduling cron jobs natively with Github Actions is a joke
+  # (Source: https://upptime.js.org/blog/2021/01/22/github-actions-schedule-not-working/)
+  #schedule:
+    #- cron: '0 11,12 * * Fri'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
