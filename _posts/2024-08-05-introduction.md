@@ -3,7 +3,7 @@ title: Introduction
 description: In which this blog introduces itself
 author: sykesjd
 date: 2024-08-05 18:10:00 -0400
-categories: [Blog, Introduction]
+categories: [Introduction]
 tags: [introduction]
 published: true
 pin: true

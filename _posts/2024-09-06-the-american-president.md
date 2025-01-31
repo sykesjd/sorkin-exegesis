@@ -3,7 +3,7 @@ title: Entry 003 - The American President
 description: In which the only thing Mr. Sorkin has to do to make us happy is to come home to Rob Reiner at the end of the day
 author: sykesjd
 date: 2024-09-06 07:00:00 -0400
-categories: [Blog, Movie]
+categories: [Movie]
 tags: [movie]
 published: true
 ---

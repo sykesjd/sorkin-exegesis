@@ -3,7 +3,7 @@ title: Entry 001 - A Few Good Men
 description: In which reasonable doubt reigns supreme
 author: sykesjd
 date: 2024-08-09 19:00:00 -0400
-categories: [Blog, Movie]
+categories: [Movie]
 tags: [movie]
 published: true
 ---
