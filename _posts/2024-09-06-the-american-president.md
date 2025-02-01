@@ -1945,7 +1945,7 @@ _(sigh)_ That would have been a nice touch to keep in. I suppose it didn't make 
 > 
 > SHEPHERD: _(shakes his head minutely)_ Walk with me.
 
-He said the thing!
+"He said the thing!"
 
 > SYDNEY: How'd you finally do it?
 > 
