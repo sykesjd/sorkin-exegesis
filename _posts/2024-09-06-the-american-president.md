@@ -1800,6 +1800,7 @@ Yes, quite the contortionist is the President.<sup>foreshadowing detected</sup>
 Yeah, just ask Mitt Romney.
 
 ### RETURNING Dialogue Motif: The Unimpressive Demotion™
+<sup>Previous instance: _A Few Good Men_</sup>
 
 > SHEPHERD: Is the view pretty good from the cheap seats, A.J.?
 > 
