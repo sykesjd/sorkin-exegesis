@@ -250,6 +250,8 @@ Alright, here's the first of a disturbing number of instances where a character 
 
 "Oh, Colonel, I've been waiting my entire life to hear you say — wait, you didn't mean it like that."
 
+### NEW Sorkin Name: Tom
+
 ### NEW Sorkin Player: Joshua Malina
 <sup>Character: Tom the orderly</sup>
 

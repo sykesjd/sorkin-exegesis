@@ -976,6 +976,8 @@ That's what you get for calling a grown woman a girl. ... Sir.
 
 "Cut! It's 'my', not 'me'! Get it right next time!"
 
+### NEW Dialogue Motif: The Dentist Lie™
+
 > LUCY: My dad told me to tell you that he's on the phone with his dentist and that I should behave myself and entertain you 'til he gets back.
 > 
 > SYDNEY: Your father's on the phone with his dentist?
@@ -1095,7 +1097,7 @@ I love the implication here that the President has been in biffs with the Chairm
 
 Wait, what? Libya would be six or seven hours ahead of Eastern US time, and it's late enough for your daughter to have *sent herself to bed*. Surely there's not enough time left on the night shift in Tripoli for the bombers to make it?
 
-### NEW Dialogue Motif: The virtue of a proportional response.
+### NEW Plot Bunny: The virtue of a proportional response
 
 > A.J.: Sir, it's immediate, it's decisive, it's low risk, and it's a proportional response.
 > 
