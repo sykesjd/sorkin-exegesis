@@ -778,6 +778,8 @@ Between script and shooting, Judge Randolph was promoted from Captain to Colonel
 
 Dude, really? You're gonna throw in a dig at the defense attorney in your opening statement? If I'm a member of the Court, I don't trust you already.
 
+### NEW Sorkin Name: Harold
+
 > KAFFEE: Make no mistake about it: Harold Dawson and Louden Downey are sitting before you today because they did their job.
 
 It occurs to me that the defense basically paid no mind at all to the Conduct Unbecoming charge. Probably just as well in light of the other charges, but on that charge this last statement doesn't help their case at all.
