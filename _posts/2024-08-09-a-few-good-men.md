@@ -107,7 +107,9 @@ Goddammit, not him! Why did we cast him?!
 > KAFFEE: A yardarm? _(to teammate)_ Sherby, does the Navy still hang people from yardarms?
 > 
 > SHERBY: I don't think so.
-> 
+
+### NEW Sorkin Name: Dave/David
+
 > KAFFEE: _(back to Spradling)_ Dave, Sherby doesn't think the Navy hangs people from yardarms anymore.
 
 So Sorkin-esque is this exchange, when I was first compiling Sorkinisms for this project I could have sworn there was something similar in another work. Didn't end up finding it...
