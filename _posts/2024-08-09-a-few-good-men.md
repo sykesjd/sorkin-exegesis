@@ -642,7 +642,7 @@ _(golf clap)_
 
 I keep having to tell myself that this was Wolfgang Bodison's first acting role, because it is not at all obvious from his performance here. Rob Reiner found a diamond in the rough, for sure.
 
-### NEW Dialogue Motif: don't like (me) very much
+### NEW Dialogue Motif: Don't like (me) very much
 
 > KAFFEE: You don't like me very much, do you?
 > 
