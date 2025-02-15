@@ -236,6 +236,8 @@ The name Shangri-La originally came from the 1933 novel _Lost Horizon_, which es
 
 The use of the term "ratted on" suggests the image of a mafia don on the hunt for undercover infiltrators in a way that I'm not completely certain was intentional. It should be noted that the US military ended up banning screening of this film on military bases due primarily to its depiction of the Marines, and I suspect that inferable comparison may have been part of the decision.
 
+### NEW Sorkin Name: Curtis
+
 > MARKINSON: Colonel, I think it would be better to hold this discussion in private.
 >
 > KENDRICK: That won't be necessary, Colonel. I can handle the situation, sir.
@@ -781,6 +783,8 @@ Between script and shooting, Judge Randolph was promoted from Captain to Colonel
 Dude, really? You're gonna throw in a dig at the defense attorney in your opening statement? If I'm a member of the Court, I don't trust you already.
 
 ### NEW Sorkin Name: Harold
+
+### NEW Sorkin Name: Dawson
 
 > KAFFEE: Make no mistake about it: Harold Dawson and Louden Downey are sitting before you today because they did their job.
 

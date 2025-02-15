@@ -324,7 +324,9 @@ Good lord, do you really need to be that sarcastic with your kid? ... Sir.
 > A.J.: Leo Solomon brought in a hired gun at the GDC.
 > 
 > SHEPHERD: It's about time.
-> 
+
+### NEW Sorkin Name: Sydney
+
 > A.J.: She's a lawyer from Virginia. Her name's Sydney Ellen Wade. I know her pretty well. She's had a lot of success getting congressmen elected.
 
 Alright, Mr. Jazz, that's not exactly what it says in the script! I'll be honest with you, though, I actually like it better the way you said it in this case, so keep going.
@@ -665,6 +667,8 @@ I suppose it's worth pointing out, this won't be the last time we'll hear Mr. So
 > KODAK: Give us a vote, get a photo-op with number 63.
 
 Huh?! Number 63?! Does this movie take place a hundred years in the future?!
+
+### NEW Dialogue Motif: Don't have time to do one thing at a time
 
 > LEWIS: We should have gone after the handguns.
 > 
