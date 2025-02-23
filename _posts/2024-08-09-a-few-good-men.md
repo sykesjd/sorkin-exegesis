@@ -757,9 +757,13 @@ In this added-in line, Kaffee implies they have essentially no control over memb
 
 "That's hot — wait, what?"
 
+### NEW Sorkin Name: Miller
+
 ### NEW Sorkin Player: Maud Winchester
 <sup>Character: "Aunt Ginny" Miller</sup>
 
+> GALLOWAY: Danny, I want you to meet Ginny Miller, Louden's aunt.
+> 
 > KAFFEE: You're Aunt Ginny?
 > 
 > GINNY: Uh huh.
