@@ -433,9 +433,11 @@ God, I fucking love that line.
 > SHEPHERD: You have a second?
 > 
 > SYDNEY: Uh... of course.
-> 
-> _(SHEPHERD escorts SYDNEY out)_
-> 
+
+Note to self: always be skeptical when the President of the United States offers you a one-on-one.
+
+### NEW Sorkin Name: Janie
+
 > SHEPHERD: I thought maybe we might talk in private, someplace a little less intimidating? Janie?
 > 
 > JANIE: Yes, sir.
