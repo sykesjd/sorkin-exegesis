@@ -221,7 +221,7 @@ The Save the Spotted Owl Society doesn't appear to exist, but this line is almos
 
 I have to wonder if this interaction here is influenced by any real-world collaboration Mr. Sorkin may have had with either Rob Reiner or William Goldman. The latter reportedly continued his mentorship of Mr. Sorkin into the writing of this movie, so I don't think it would be a stretch to say this little fraction of a scene could be an underhanded "thank you" to him.
 
-### RETURNING Sorkin Name: Sorkin Name: Dave/David
+### RETURNING Sorkin Name: Dave/David
 <sup>Previous instances: _A Few Good Men_; _Malice_</sup>
 
 > ROBIN: David Sasser from the Times called and wanted to know what the White House felt was a great society.
@@ -1360,7 +1360,7 @@ Something tells me this Motown Three don't have the Rhythm™ that name implies.
 
 For now!
 
-### RETURNING Sorkin Name: Sorkin Name: Dave/David
+### RETURNING Sorkin Name: Dave/David
 <sup>Previous instances: _A Few Good Men_; _Malice_; _The American President_ (again)</sup>
 
 > DAVID: You wanna order in?
