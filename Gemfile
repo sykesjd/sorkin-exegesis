@@ -9,5 +9,5 @@ group :test do
   gem "rexml", ">= 3.3.9"
   gem "google-protobuf", ">= 4.27.5"
   gem "webrick", ">= 1.8.2"
-  gem "nokogiri", ">= 1.18.4"
+  gem "nokogiri", ">= 1.18.8"
 end
