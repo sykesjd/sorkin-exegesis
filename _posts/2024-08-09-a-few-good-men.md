@@ -1383,7 +1383,7 @@ And for one last time, something from the stageplay that didn't make it into the
 
 Wait, was that supposed to be an antisemitic crack? Having the one other person he points to be the token Jew? Or is it just that he finds the idea of the female attorney at the defense table standing a post a laughable one? Either way, fuck you, Jessup.
 
-### NEW Dialogue Motif: time and inclination
+### NEW Dialogue Motif: Time and inclination
 
 > JESSUP: I have neither the time nor the inclination to explain myself to a man who rises and sleeps under the blanket of the freedom I provide and then questions the manner in which I provide it.
 
