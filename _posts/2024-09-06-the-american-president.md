@@ -718,7 +718,7 @@ Alright, I'm sure that interaction wasn't important at all...<sup>sarcasm detect
 
 "Well, the blood's supposed to go elsewhere, you know?"
 
-### NEW Non-Verbal Signature: Women tie bowties
+### NEW Plot Bunny: Women tie bowties
 
 > SHEPHERD: Sweetie, did Mom teach you how to do that?
 > 
