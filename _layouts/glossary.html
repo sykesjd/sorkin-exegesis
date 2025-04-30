@@ -1,0 +1,183 @@
+---
+layout: page
+# All the Sorkinisms in posts.
+---
+
+{% include lang.html %}
+
+<h2>Verbal Tics</h2>
+{% assign vts = site.posts | map: 'verbal_tics' | uniq | sort_natural %}
+<table class="table table-dark table-striped table-bordered table-hover table-responsive">
+    <thead>
+        <tr>
+            <th>Verbal Tic</th>
+            <th>Running Count</th>
+        </tr>
+    </thead>
+    <tbody class="table-group-divider">
+        {% for svt in vts %}
+            <tr>
+                <td>{{svt}}</td>
+                {% assign vtCount = 0 %}
+                {% for post in site.posts reversed %}
+                    {% for pvt in post.verbal_tics %}
+                        {% if pvt == svt %}
+                            {% assign vtCount = vtCount | plus: 1 %}
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+                <td>{{vtCount}}</td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+<h2>Dialogue Motifs</h2>
+{% assign dms = site.posts | map: 'dialogue_motifs' | uniq | sort_natural %}
+<table class="table table-dark table-striped table-bordered table-hover table-responsive">
+    <thead>
+        <tr>
+            <th>Dialogue Motifs</th>
+            <th>Instances</th>
+        </tr>
+    </thead>
+    <tbody class="table-group-divider">
+        {% for sdm in dms %}
+            <tr>
+                <td>{{sdm}}</td>
+                <td>
+                    {% for post in site.posts reversed %}
+                        {% if post.dialogue_motifs contains sdm %}
+                            <p><a href="{{ post.url | relative_url }}">{{post.title}}</a></p>
+                        {% endif %}
+                    {% endfor %}
+                </td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+<h2>Plot Bunnies</h2>
+{% assign pbs = site.posts | map: 'plot_bunnies' | uniq | sort_natural %}
+<table class="table table-dark table-striped table-bordered table-hover table-responsive">
+    <thead>
+        <tr>
+            <th>Plot Bunny</th>
+            <th>Instances</th>
+        </tr>
+    </thead>
+    <tbody class="table-group-divider">
+        {% for spb in pbs %}
+            <tr>
+                <td>{{spb}}</td>
+                <td>
+                    {% for post in site.posts reversed %}
+                        {% if post.plot_bunnies contains spb %}
+                            <p><a href="{{ post.url | relative_url }}">{{post.title}}</a></p>
+                        {% endif %}
+                    {% endfor %}
+                </td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+<h2>Non-Verbal Signatures</h2>
+{% assign nvs = site.posts | map: 'nonverbal_signatures' | uniq | sort_natural %}
+<table class="table table-dark table-striped table-bordered table-hover table-responsive">
+    <thead>
+        <tr>
+            <th>Non-Verbal Signature</th>
+            <th>Instances</th>
+        </tr>
+    </thead>
+    <tbody class="table-group-divider">
+        {% for snv in nvs %}
+            <tr>
+                <td>{{snv}}</td>
+                <td>
+                    {% for post in site.posts reversed %}
+                        {% if post.nonverbal_signatures contains snv %}
+                            <p><a href="{{ post.url | relative_url }}">{{post.title}}</a></p>
+                        {% endif %}
+                    {% endfor %}
+                </td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+<h2>Sorkin Names</h2>
+{% assign sns = site.posts | map: 'sorkin_names' | uniq | sort_natural %}
+<table class="table table-dark table-striped table-bordered table-hover table-responsive">
+    <thead>
+        <tr>
+            <th>Sorkin Name</th>
+            <th>Instances</th>
+        </tr>
+    </thead>
+    <tbody class="table-group-divider">
+        {% for ssn in sns %}
+            <tr>
+                <td>{{ssn}}</td>
+                <td>
+                    {% for post in site.posts reversed %}
+                        {% if post.sorkin_names contains ssn %}
+                            <p><a href="{{ post.url | relative_url }}">{{post.title}}</a></p>
+                        {% endif %}
+                    {% endfor %}
+                </td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+<h2>Sorkin Drinks</h2>
+{% assign sds = site.posts | map: 'sorkin_drinks' | uniq | sort_natural %}
+<table class="table table-dark table-striped table-bordered table-hover table-responsive">
+    <thead>
+        <tr>
+            <th>Sorkin Drink</th>
+            <th>Instances</th>
+        </tr>
+    </thead>
+    <tbody class="table-group-divider">
+        {% for ssd in sds %}
+            <tr>
+                <td>{{ssd}}</td>
+                <td>
+                    {% for post in site.posts reversed %}
+                        {% if post.sorkin_drinks contains ssd %}
+                            <p><a href="{{ post.url | relative_url }}">{{post.title}}</a></p>
+                        {% endif %}
+                    {% endfor %}
+                </td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+<h2>Sorkin Players</h2>
+{% assign sps = site.posts | map: 'sorkin_players' | uniq | sort_natural %}
+<table class="table table-dark table-striped table-bordered table-hover table-responsive">
+    <thead>
+        <tr>
+            <th>Sorkin Player</th>
+            <th>Instances</th>
+        </tr>
+    </thead>
+    <tbody class="table-group-divider">
+        {% for ssp in sps %}
+            <tr>
+                <td>{{ssp}}</td>
+                <td>
+                    {% for post in site.posts reversed %}
+                        {% if post.sorkin_players contains ssp %}
+                            <p><a href="{{ post.url | relative_url }}">{{post.title}}</a></p>
+                        {% endif %}
+                    {% endfor %}
+                </td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
