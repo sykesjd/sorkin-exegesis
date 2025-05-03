@@ -82,6 +82,31 @@ layout: page
     </tbody>
 </table>
 
+<h2>Topical Signatures</h2>
+{% assign tss = site.posts | map: 'topical_signatures' | uniq | sort_natural %}
+<table class="table table-dark table-striped table-bordered table-hover table-responsive">
+    <thead>
+        <tr>
+            <th>Topical Signature</th>
+            <th>Instances</th>
+        </tr>
+    </thead>
+    <tbody class="table-group-divider">
+        {% for sts in tss %}
+            <tr>
+                <td>{{sts}}</td>
+                <td>
+                    {% for post in site.posts reversed %}
+                        {% if post.topical_signatures contains sts %}
+                            <p><a href="{{ post.url | relative_url }}">{{post.title}}</a></p>
+                        {% endif %}
+                    {% endfor %}
+                </td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
 <h2>Non-Verbal Signatures</h2>
 {% assign nvs = site.posts | map: 'nonverbal_signatures' | uniq | sort_natural %}
 <table class="table table-dark table-striped table-bordered table-hover table-responsive">

@@ -3,6 +3,14 @@
 # Scrape Sorkinisms from a post to allow for glossary
 
 Jekyll::Hooks.register :posts, :pre_render do |post|
+    vtRegex = /(NEW|RETURNING) Verbal Tic\: (.*)/
+    vtMatches = post.content.scan(vtRegex)
+    vts = Array.new
+    for vt in vtMatches do 
+        vts << vt[1]
+    end
+    post.data['verbal_tics'] = vts
+
     dmRegex = /(NEW|RETURNING) Dialogue Motif\: (.*)/
     dmMatches = post.content.scan(dmRegex)
     dms = Array.new
@@ -19,13 +27,13 @@ Jekyll::Hooks.register :posts, :pre_render do |post|
     end
     post.data['plot_bunnies'] = pbs
 
-    vtRegex = /(NEW|RETURNING) Verbal Tic\: (.*)/
-    vtMatches = post.content.scan(vtRegex)
-    vts = Array.new
-    for vt in vtMatches do 
-        vts << vt[1]
+    tsRegex = /(NEW|RETURNING) Topical Signature\: (.*)/
+    tsMatches = post.content.scan(tsRegex)
+    tss = Array.new
+    for ts in tsMatches do 
+        tss << ts[1]
     end
-    post.data['verbal_tics'] = vts
+    post.data['topical_signatures'] = tss
 
     nvRegex = /(NEW|RETURNING) Non-Verbal Signature\: (.*)/
     nvMatches = post.content.scan(nvRegex)
