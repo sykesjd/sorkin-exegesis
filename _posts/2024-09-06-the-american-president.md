@@ -93,6 +93,7 @@ What the hell?! I'm gonna report you to HR for that! Wait, HR works for you...
 Twice now, Janie has surreptitiously reminded the President of someone's name. That woman is good.
 
 ### NEW Sorkin Player: Anna Deavere Smith
+<sup>Character: Robin McCall</sup>
 
 > ROBIN: Buenos dias, Señor Presidente.
 
@@ -127,6 +128,7 @@ The music continues...
 So the secret to making American great again is to put a Black woman in the White House? Sign me up!
 
 ### NEW Sorkin Player: Martin Sheen
+<sup>Character: A.J. MacInerney</sup>
 
 ### NEW Sorkin Name: Shane
 
