@@ -909,7 +909,7 @@ Damnit, Kaffee...
 
 I'm willing to bet the reason having the cross overheat was added was to compensate for this: in the original stageplay, the meeting between Dr. Stone and Colonel Jessup was explicitly shown. In that scene, it's made unambiguous that Jessup pressured Stone into issuing a poisoning CoD with a promise to bring the doctor to Washington with him when he gets his Security Council promotion. Once again, the cut adds to the ambiguity that the audience is simply expected to fill in with sympathy for the defense. This addition to the cross, though, comes close to insulting the audience's intelligence, in my opinion.
 
-### NEW Dialogue Motif: Do whatever it is you do
+### NEW Dialogue Motif: Whatever it is you do/did
 
 > KAFFEE: Take the night off, go see your wife, go see your daughter. Jo, go do... whatever it is you do when you're not here.
 
