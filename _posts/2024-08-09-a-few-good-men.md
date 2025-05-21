@@ -1295,6 +1295,8 @@ Hey, he knows where he is! That's a step up!
 
 This is a hell of a bluff, man. First you enter in evidence which contradicts your story while claiming the evidence was doctored, then you show the faces of two men who have no fucking clue why they're there and claim they'll prove the doctoring. You're treading on thin ground, there...
 
+### NEW Sorkin Name: O'Malley
+
 > KAFFEE: Defense'll be calling Airman Cecil O'Malley and Airman Anthony Rodriguez.
 
 Another rename: Perez became Rodriguez. What possible reason could there have been to make that rename necessary?
