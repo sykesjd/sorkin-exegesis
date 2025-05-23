@@ -1342,6 +1342,8 @@ Oh, shit, man, what did your mother do?
 
 Ah, so he's a George Bush expy, then — pandering to people who get whiny over flag burning.
 
+### NEW Sorkin Name: Harry
+
 > SYDNEY: Harry, think like a father for a second.
 
 A couple of lines got cut here — first Sydney makes a crack about the Congressman apparently not having slept since they last talked, when he said he'd "sleep on it". Then David interjects a suggestion that she "ask him about his position on stateboard for Hawaii".
