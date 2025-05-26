@@ -1379,6 +1379,8 @@ For now!
 
 Pinko...
 
+### NEW Sorkin Name: Doug(las)
+
 > SHEPHERD: Douglas, does the NRA have videotapes of you playing golf with Satan?
 
 You know, honestly, that would be a step up in rhetoric for the NRA...
