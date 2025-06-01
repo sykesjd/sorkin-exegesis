@@ -9,5 +9,7 @@ tools/
 .DS_Store
 node_modules/
 package-lock.json
+# manually added
 TODO.md
 NOTES.md
+_posts/Staging/
