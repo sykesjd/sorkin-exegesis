@@ -16,7 +16,7 @@ platforms:
   
   - type: Tumblr
     icon: "fa-brands fa-tumblr"
-    link: "http://www.tumblr.com/share/link?url=URL"
+    link: "https://www.tumblr.com/share/link?url=URL"
 
   # Uncomment below if you need to.
   #
