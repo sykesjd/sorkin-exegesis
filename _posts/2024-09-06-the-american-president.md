@@ -954,6 +954,8 @@ Oh, yeah, sure, blame the system! Did you change parties when I wasn't paying at
 
 How would your daughter be like the UN if she's not participating in social studies?
 
+### NEW Sorkin Name: Jeff(rey)
+
 ### NEW Sorkin Player: Gabriel Jarret
 <sup>Character: Jeff</sup>
 
