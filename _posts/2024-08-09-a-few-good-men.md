@@ -713,7 +713,7 @@ This is where intermission would be for the stageplay. Feel free to [take your o
 
 "Oh, Danny, I've been waiting my entire life to hear you say that — wait, you didn't mean it like that."
 
-> SAM: You got any Kung Pao Chicken?
+> WEINBERG: You got any Kung Pao Chicken?
 
 Why, oh why, would you even want to deviate from the script here? Are dumplings not good enough for you?
 
@@ -725,7 +725,7 @@ Ah, so _now_ you get the principle of reasonable doubt! Good to have you back, K
 
 > KAFFEE: Doctor, was there any sign of violence?
 > 
-> SAM: _(as the doctor)_ You mean other than the dead body?
+> WEINBERG: _(as the doctor)_ You mean other than the dead body?
 > 
 > KAFFEE: Shit! I walk into that every goddamn time.
 
