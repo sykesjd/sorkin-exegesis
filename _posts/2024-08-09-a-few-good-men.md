@@ -324,6 +324,8 @@ She's IA, man, she doesn't have that kind of time.<sup>foreshadowing detected</s
 
 ### NEW Verbal Tic: Résumé recitation
 
+### NEW Sorkin Name: Lionel
+
 > GALLOWAY: You're wrong — I do know you: Daniel Alistair Kaffee, born June 8th, 1964 at Boston Mercy Hospital. Your father's Lionel Kaffee, former Navy judge advocate and Attorney General of the United States, died 1985. You went to Harvard Law, then you joined the Navy...
 
 This is one of the few times in Sorkin works where the résumé being recited is someone else's. Usually it's just someone being braggadocious or insecurely overcompensating about themselves. (Also, yes, I'm labelling it as a tic instead of a motif — it happens so often it comes off as a reflex for the characters who do it.)
