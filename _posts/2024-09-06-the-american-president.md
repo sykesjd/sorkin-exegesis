@@ -136,14 +136,14 @@ So the secret to making American great again is to put a Black woman in the Whit
 
 Man, Martin Sheen really knows how to make the music work...
 
-### RETURNING Sorkin Player: Maud Winchester
-<sup>Character: White House aide <br> Previous appearance: _A Few Good Men_</sup>
-
-This one is easy to miss:
+### NEW Sorkin Name: John
 
 > A.J.: John, will you call Mr. Kodak and tell him the President's waiting?
 
-As John moves to open the door, note the woman standing next to him — seems she got over her nephew's dishonorable discharge from the Marines.
+### RETURNING Sorkin Player: Maud Winchester
+<sup>Character: White House aide <br> Previous appearance: _A Few Good Men_</sup>
+
+This one is easy to miss: as John moves to open the door, note the woman standing next to him — seems she got over her nephew's dishonorable discharge from the Marines.
 
 > SHEPHERD: Three years ago, we were elected to the White House by one of the narrowest margins in history. Today, Kodak tells us 63 percent of registered votes think we're doing a good job.
 > 
