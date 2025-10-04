@@ -246,7 +246,7 @@ The use of the term "ratted on" suggests the image of a mafia don on the hunt fo
 
 Alright, here's the first of a disturbing number of instances where a character gets renamed between writing and shooting. In the screenplay, the character's name is Curtis **Barnes**, but in the final product his name is Curtis **Bell**. In its absence here, the Barnes surname will be used _later_ instead. Funnily enough, this isn't the only instance in Sorkin works of a surname getting passed from character to character between script and shoot — but that's for a future entry.
 
-### NEW Sorkin Name: Matthew
+### NEW Sorkin Name: Matt/Matthew
 
 > MARKINSON: Don't interrupt me, Lieutenant, I'm still your superior officer.
 > 
