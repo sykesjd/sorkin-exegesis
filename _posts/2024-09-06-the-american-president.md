@@ -473,7 +473,7 @@ Hold on...
 I'm still not sure how you know something like that.
 
 ### RETURNING Plot Bunny: The Ambiguous Date Ask™
-<sup>Previous instance: _Malice_, _A Few Good Men_</sup>
+<sup>Previous instances: _Malice_, _A Few Good Men_</sup>
 
 > SHEPHERD: Listen, um... are you hungry? I skipped breakfast. You wanna... have a donut? Coffee or something?
 > 
