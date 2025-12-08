@@ -626,7 +626,7 @@ Okay, I have to stop my textual analysis for a moment to note this absolutely fa
 
 Try Bermuda, I hear it's great there!
 
-### NEW Dialogue Motif: What did you mean when you said...
+### NEW Dialogue Motif: What did [you] mean when [you] said...
 
 > SHEPHERD: What did you mean when you said that you didn't have a phone?
 > 
