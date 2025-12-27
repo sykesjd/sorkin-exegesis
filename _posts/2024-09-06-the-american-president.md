@@ -1882,8 +1882,6 @@ NO IT DOESN'T! You should say either that it 'raises the question' or that it 'b
 
 Those of you who have seen this long speech before probably won't be surprised to hear some lines got cut from it for the final product. ("Nobody has ever won an election by talking about what I was just talking about. ... our public schools have been decimated.") I've been waffling back and forth on whether I'd say I miss those lines. On the one hand, they do seem a little out of place; on the other hand, it does bring some more color to what Shepherd says next:
 
-### NEW Dialogue Motif: Serious problems, serious people
-
 > SHEPHERD: We have serious problems to solve, and we need serious people to solve them — and whatever your particular problem is, I promise you, Bob Rumson is not the least bit interested in solving it. He is interested in two things, and two things only — making you afraid of it, and telling you who's to blame for it. That, ladies and gentlemen, is how you win elections.
 
 The lines that got cut serve as an initial bookend to the final bookend of "how you win elections", as Shepherd starts out talking through the serious problems that no one wins elections talking about before tying up the section with how elections actually are won (according to him). Does the speech still hold up without the cut lines? Of course! But the cut lines would have maintained more color for the overall message — and this cut isn't even the last of the changes in this speech from script to shoot.

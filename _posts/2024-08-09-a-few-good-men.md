@@ -753,7 +753,7 @@ In this added-in line, Kaffee implies they have essentially no control over memb
 
 "Cut! Damnit, Tom, the line is 'bet your ass'! '**Bet your ass**'! It's really important that you say that — ah, what the hell..."
 
-### NEW Dialogue Motif: Get creamed
+### NEW Dialogue Motif: Get/got creamed
 
 > KAFFEE: We're gonna get creamed.
 
