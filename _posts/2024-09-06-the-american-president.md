@@ -373,7 +373,7 @@ God, I fucking love you, Martin...
 
 I'm not sure the Secret Service would allow that...
 
-### NEW Topical Signature: Vouchers
+### NEW Topical Signature: School vouchers
 
 > SHEPHERD: The day the government starts subsidizing private schools is the day we give up on public education.
 > 
