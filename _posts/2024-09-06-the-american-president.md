@@ -426,7 +426,7 @@ Secret Service would have them down like calves at a rodeo, sir.<sup>foreshadowi
 
 God, I fucking love that line.
 
-### NEW Sorkin Name: Sloan
+### NEW Sorkin Name: Sloan(e)
 
 > SUSAN: Mr. President, we haven't met, I'm Susan Sloan, I used to work with Congressman Myers. And I-I hope this episode in no way jeopardized the good relationship —
 > 
