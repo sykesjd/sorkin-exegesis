@@ -412,6 +412,8 @@ Alright, corporal, do we need a lecture on the separation of church and state? I
 
 Here's a weird one: in the stageplay, it's "smilin'"; in the screenplay, it's "sailin'"; in the final product, it's back to "smilin'". Was that simply a typo in the screenplay? They are one letter away from each other, but it's not like A and M are that close to each other on keyboards — and I don't think autocorrect was that powerful on the Fat Mac, if it existed at all. Mystery for the ages, I guess...
 
+### NEW Verbal Tic: "I don't care if..." rebuff
+
 > KAFFEE: They called the ambulance, Jack.
 > 
 > ROSS: I don't care if they called the Avon lady, they killed a Marine.
