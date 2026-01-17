@@ -95,6 +95,11 @@
     <link rel="stylesheet" href="{{ site.data.origin[type].glightbox.css | relative_url }}">
   {% endif %}
 
+  {% if page.layout == 'glossary' %}
+    <!-- Image Popup -->
+    <script src="https://www.w3.org/WAI/content-assets/wai-aria-practices/patterns/table/examples/js/sortable-table.js"></script>
+  {% endif %}
+
   <!-- JavaScript -->
 
   {% unless site.theme_mode %}
