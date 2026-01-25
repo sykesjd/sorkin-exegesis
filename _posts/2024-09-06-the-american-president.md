@@ -138,7 +138,7 @@ So the secret to making American great again is to put a Black woman in the Whit
 
 Man, Martin Sheen really knows how to make the music work...
 
-### NEW Sorkin Name: John
+### NEW Sorkin Name: John/Jonathan
 
 > A.J.: John, will you call Mr. Kodak and tell him the President's waiting?
 
