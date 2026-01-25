@@ -325,6 +325,8 @@ Good lord, do you really need to be that sarcastic with your kid? ... Sir.
 
 ### NEW Sorkin Name: Leo
 
+### NEW Sorkin Name: Solomon
+
 > A.J.: Leo Solomon brought in a hired gun at the GDC.
 > 
 > SHEPHERD: It's about time.
