@@ -105,9 +105,9 @@ Twice now, Janie has surreptitiously reminded the President of someone's name. T
 
 Hold up...
 
-![Anna Deavere Smith height search](assets/img/ADS-HeightSearch.png "Anna Deavere Smith height search")
+![Anna Deavere Smith height search](assets/img/003-ADSSearch.png "Anna Deavere Smith height search")
 
-![Anna Deavere Smith height result](assets/img/ADS-HeightResult.png "Anna Deavere Smith height result")
+![Anna Deavere Smith height result](assets/img/003-ADSResult.png "Anna Deavere Smith height result")
 
 Hmm... too tall, you say?
 
@@ -280,9 +280,9 @@ Really? You think he's able to fit a dirt bike behind his back?
 
 Hold on...
 
-![Michael Douglas age search](assets/img/MD-AgeSearch.png "Michael Douglas age search")
+![Michael Douglas age search](assets/img/003-MDSearch.png "Michael Douglas age search")
 
-![Michael Douglas age result](assets/img/MD-AgeResult.png "Michael Douglas age result")
+![Michael Douglas age result](assets/img/003-MDResult.png "Michael Douglas age result")
 
 Okay, so... he would have been 50 at the time of filming. That's actually pretty young for a president in his third year — he would have been in the [top 15% youngest presidents to be sworn in](https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States_by_age). Moral of the story: yeah, you shouldn't call him really old, kid.
 
@@ -468,7 +468,7 @@ Who's Chu? ... Sorry, force of habit.
 
 Hold on...
 
-![D.C. map](assets/img/DC-Map.png "D.C. map")
+![D.C. map](assets/img/003-DCMap.png "D.C. map")
 
 ... Eh, yeah, I suppose those diagonal roads would be intimidating?
 
@@ -1575,9 +1575,9 @@ In the background here, we see Lucy and a couple of other kids at a buffet table
 
 Hold on...
 
-![D.C. map](assets/img/DC-Map.png "D.C. map")
+![D.C. map](assets/img/003-DCMap.png "D.C. map")
 
-![D.C. map annotated](assets/img/DC-MapAnnotated.png "D.C. map annotated")
+![D.C. map annotated](assets/img/003-DCMapAnnotated.png "D.C. map annotated")
 
 Huh?!
 

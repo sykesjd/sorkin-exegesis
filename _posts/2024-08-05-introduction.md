@@ -15,27 +15,27 @@ pin: true
 
 It all started after I graduated high school, so I suppose you could say I'm something of a neophyte. Nonetheless, I can say that I have seen every work credited to Aaron Sorkin adapted for the screen multiple times — I've even lost count on most of them. There's just something about the natural rhythm and musicality of what he writes that has me coming back to it all more often than a human being should ever come back to anything. Having seen it all so often, of course, grants me a certain amount of perspective on the writer.
 
-![Sorkin works for the screen](assets/img/AllWorks.png "Sorkin Works for the Screen")
+![Sorkin works for the screen](assets/img/000-AllWorks.png "Sorkin Works for the Screen")
 
 To date, Mr. Sorkin has written for four TV shows and received writing credit on ten movies. Of those four TV shows, three of them... are about TV shows, as is one of his movies. The remaining TV show takes place inside the US government, as do two of his movies. Five of the remaining movies have at least one scene that takes place inside a deposition or a court room — and seven of his movies are biopics retelling the stories of historical figures or events.
 
-![Sorkin works for the screen, annotated](/assets/img/AllWorksAnnotated.png "Sorkin Works for the Screen, Annotated")
+![Sorkin works for the screen, annotated](/assets/img/000-AllWorksAnnotated.png "Sorkin Works for the Screen, Annotated")
 
 So, yeah... it's fair to say that Sorkin works can be quite similar. If you're a Sorkin fan, however, that's not necessarily the first thing you think of in terms of inter-work similarity.
 
-![Search for Sorkinisms videos](assets/img/SorkinismsVideos.png "Sorkinisms Videos on YouTube")
+![Search for Sorkinisms videos](assets/img/000-SorkinismsVideos.png "Sorkinisms Videos on YouTube")
 
 Chances are, if you've arrived at this blog on purpose, you've watched the Sorkinisms videos put together by Kevin T. Porter, showcasing a number of times Mr. Sorkin has reused dialogue or implemented signature verbal or physical tics in his works for the screen. It shouldn't surprise you, however, that those videos are incomplete in showing how much Mr. Sorkin tends to reuse dialogue or plot ideas.
 
 As such, I decided to go through all his on-screen works and compile a document on all the Sorkinisms I could catch from having watched everything multiple times. The act of doing so revealed north of 400 different elements that I thought could reasonably be considered Sorkinisms.
 
-![Scrolling through the Sorkinisms document](assets/img/SorkDoc.gif "Sorkinisms Document")
+![Scrolling through the Sorkinisms document](assets/img/000-SorkDoc.gif "Sorkinisms Document")
 
 Yeah... you can see why I called myself an addict at the top. (Either that or an undiagnosed autist, but like that would make a difference at this point in my life.)
 
 My first thought was to take all this data and set up a Sorkinisms wiki to be able to link everything together. The sticking point for me that made the idea a difficult one was the necessity to have video evidence for each instance available on each page, which would have been a rather tedious undertaking. Instead, I decided to have some fun with it and start a project that I'm calling... Sorkin Exegesis.
 
-![Sorkinisms logo](assets/img/Logo.png "Sorkinisms Logo")
+![Sorkinisms logo](assets/img/000-Logo.png "Sorkinisms Logo")
 
 Through this blog, I will step through every Sorkin work for the screen and point out Sorkinisms where they occur. Since that by itself would be rather boring, however, I will additionally provide my own commentary on the text of each work — hence the name of the project. It would also behoove me to point out where Mr. Sorkin has reused actors as well, since he is arguably just as notorious for that as he is for his dialogue. Some of the works I'll be going through even have publicly available draft or shooting scripts, so I'll have some fun analyzing the differences between those scripts and the final products. Who knows — maybe I'll even venture into the apocrypha of his script doctor work.
 
