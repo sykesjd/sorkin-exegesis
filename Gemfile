@@ -2,6 +2,8 @@
 
 source "https://rubygems.org"
 
+ruby File.read(".ruby-version").strip
+
 gemspec
 
 group :test do
@@ -9,5 +11,5 @@ group :test do
   gem "rexml", ">= 3.4.2"
   gem "google-protobuf", ">= 4.27.5"
   gem "webrick", ">= 1.8.2"
-  gem "nokogiri", ">= 1.18.9"
+  gem "nokogiri", ">= 1.19.1"
 end
