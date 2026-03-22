@@ -12,4 +12,5 @@ group :test do
   gem "google-protobuf", ">= 4.27.5"
   gem "webrick", ">= 1.8.2"
   gem "nokogiri", ">= 1.19.1"
+  gem "json", ">= 2.19.2"
 end

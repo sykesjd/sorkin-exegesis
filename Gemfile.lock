@@ -102,7 +102,7 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    json (2.18.1)
+    json (2.19.2)
     kramdown (2.5.2)
       rexml (>= 3.4.4)
     kramdown-parser-gfm (1.1.0)
@@ -163,6 +163,7 @@ DEPENDENCIES
   google-protobuf (>= 4.27.5)
   html-proofer (~> 5.0)
   jekyll-theme-chirpy!
+  json (>= 2.19.2)
   nokogiri (>= 1.19.1)
   rexml (>= 3.4.2)
   webrick (>= 1.8.2)
