@@ -13,4 +13,5 @@ group :test do
   gem "webrick", ">= 1.8.2"
   gem "nokogiri", ">= 1.19.1"
   gem "json", ">= 2.19.2"
+  gem "addressable", ">= 2.9.0"
 end
