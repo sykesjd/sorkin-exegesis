@@ -356,7 +356,7 @@ Alright, Mr. Jazz, that's not exactly what it says in the script! I'll be honest
 
 God, I fucking love you, Martin...
 
-### NEW Dialogue Motif: Frank Capra shoutcut
+### NEW Dialogue Motif: Frank Capra shoutout
 
 > SYDNEY: Forgive me, this is my first time at the White House. I'm trying to savor the Capra-esque quality.
 > 
