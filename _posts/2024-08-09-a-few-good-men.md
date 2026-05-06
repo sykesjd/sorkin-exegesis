@@ -306,6 +306,8 @@ To be honest, though, I kind of wish he'd been given a better first appearance:
 
 Every time I watch this movie, I find this scene to be awkward and so thoroughly superfluous. If the point of the scene is to establish that the accused have made it to Washington, then surely that could have been established without that clunky dialogue from Downey? The very next scene already has Galloway telling off Kaffee for not seeing his clients after their arrival, so it's not like their location has to be verbalized now. If the point of the scene instead is to establish that Downey is basically Dawson's dog, then I feel like that's sufficiently established in further scenes as well. Not a good look, in my opinion.
 
+### NEW Sorkin Name: Dawson
+
 > GALLOWAY: Excuse me! I wanted to talk to you about Corporal Dawson and Private Downey.
 
 Once again, Kaffee asking another Navy officer to join his softball team is cut from the final product ("You want to suit up?"). His ball team got no love from the director — just as well, I wouldn't want to aid anyone wearing a Red Sox hat, either.
@@ -793,8 +795,6 @@ Between script and shooting, Judge Randolph was promoted from Captain to Colonel
 Dude, really? You're gonna throw in a dig at the defense attorney in your opening statement? If I'm a member of the Court, I don't trust you already.
 
 ### NEW Sorkin Name: Harold
-
-### NEW Sorkin Name: Dawson
 
 > KAFFEE: Make no mistake about it: Harold Dawson and Louden Downey are sitting before you today because they did their job.
 
