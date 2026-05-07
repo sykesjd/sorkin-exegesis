@@ -912,8 +912,6 @@ Well, at least you admit it...
 
 I don't know, I think people at parties like that spend enough time making a joke out of the word 'cocktail'.
 
-### NEW Verbal Tic: Here we go
-
 > SECRETARY: Mr. Solomon, this was just delivered by White House messenger. It's marked 'perishable'.
 > 
 > LEO: The White House has sent me something perishable?
