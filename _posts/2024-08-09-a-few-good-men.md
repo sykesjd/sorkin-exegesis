@@ -67,6 +67,8 @@ Wow, that practice did you good...
 
 Galloway's nervousness over trying to get herself assigned to the case is something that got added between the stageplay and the screenplay. In the stageplay, she's simply presented as an anal-retentive completionist whose perfectionism is driving her to attempt to punch above her weight with little self-awareness — until her record is thrown in her face. Here, it honestly feels like her character's been rewritten to have just stepped off the Love Boat.
 
+### NEW Sorkin Name: Galloway/Gallaway
+
 > WEST: Commander Galloway, why don't you get yourself a cup of coffee?
 > 
 > GALLOWAY: Thank you, sir, I'm fine.
