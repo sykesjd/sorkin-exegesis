@@ -938,7 +938,7 @@ Dude!? You have the sensitivity of a brick!
 
 "Well, sir, if that were what we meant, then we would have said 'Canberra problem'..."
 
-### NEW Dialogue Motif: Kinks in the system
+### NEW Dialogue Motif: Kink(s) in the system
 
 > SHEPHERD: Did you, uh, get the ham?
 > 
