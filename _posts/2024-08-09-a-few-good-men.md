@@ -512,7 +512,7 @@ You might say Kaffee "experiences flying"...<sup>foreshadowing detected</sup>
 
 And here it is: the Barnes surname was passed from a guy renamed to Bell to a guy who was originally surnamed Howard — and that's not even the end of the renaming game in this movie!
 
-> JESSUP: Jon, this man's dad once made a lot of enemies down in your neck of the woods — Jefferson v. Madison County School District. Folks down there said a little black girl couldn't go to an all-white school. Lionel Kaffee said, "Well, we'll just see about that."
+> JESSUP: Jon, this man's dad once made a lot of enemies down in your neck of the woods — Jefferson v. Madison County School District. Folks down there said a little black girl couldn't go to an all-White school. Lionel Kaffee said, "Well, we'll just see about that."
 
 Another interesting change: in the stageplay, the Jefferson suit in question had Lionel Kaffee opposing a school prayer ordinance, rather than trying to get a Black girl into a Whites-only school. Funnily enough, the stageplay also had Jessup quip that Lionel Kaffee _would_ have become Attorney General if Adlai Stevenson had been elected — which got removed in the screenplay in favor of Lionel Kaffee actually having _been_ AG, according to Galloway (thus giving some anal-retentive fact-checkers some canon fodder). In its removal here, we'll see the school prayer question come up later instead.
 
