@@ -81,7 +81,7 @@ Damn, you certainly know how to get to the point, sir. I know a certain film abo
 > 
 > WEST: Three cases in two years? Who's she handling, the Rosenbergs?
 
-[Julius and Ethel Rosenberg](https://en.wikipedia.org/wiki/Julius_and_Ethel_Rosenberg) were members of the Communist Party who in 1951 were convicted of espionage under the US Espionage Act for passing state secrets to the Soviet Union. They were executed two years later, during which time a campaign for clemency failed spectacularly and the execution itself got delayed to prevent the two Jews from being executed on the Sabbath. I suppose that technically lines up to three "cases" in two years?
+[Julius and Ethel Rosenberg](https://en.wikipedia.org/wiki/Julius_and_Ethel_Rosenberg) were members of the Communist Party who in 1951 were convicted of espionage under the U.S. Espionage Act for passing state secrets to the Soviet Union. They were executed two years later, during which time a campaign for clemency failed spectacularly and the execution itself got delayed to prevent the two Jews from being executed on the Sabbath. I suppose that technically lines up to three "cases" in two years?
 
 ### NEW Dialogue Motif: Crawling up one's ass
 
@@ -234,9 +234,9 @@ The name Shangri-La originally came from the 1933 novel _Lost Horizon_, which es
 
 ### NEW Verbal Tic: To say nothing of [the fact]
 
-> JESSUP: This kid broke the chain of command and ratted on a member of his unit, to say nothing of the fact that he is a US Marine and it would appear he can't run from here to there without collapsing from heat exhaustion.
+> JESSUP: This kid broke the chain of command and ratted on a member of his unit, to say nothing of the fact that he is a U.S. Marine and it would appear he can't run from here to there without collapsing from heat exhaustion.
 
-The use of the term "ratted on" suggests the image of a mafia don on the hunt for undercover infiltrators in a way that I'm not completely certain was intentional. It should be noted that the US military ended up banning screening of this film on military bases due primarily to its depiction of the Marines, and I suspect that inferable comparison may have been part of the decision.
+The use of the term "ratted on" suggests the image of a mafia don on the hunt for undercover infiltrators in a way that I'm not completely certain was intentional. It should be noted that the U.S. military ended up banning screening of this film on military bases due primarily to its depiction of the Marines, and I suspect that inferable comparison may have been part of the decision.
 
 ### NEW Sorkin Name: Curtis
 

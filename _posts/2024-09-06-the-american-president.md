@@ -1112,7 +1112,7 @@ I love the implication here that the President has been in biffs with the Chairm
 > 
 > DEPUTY: They're on now, sir.
 
-Wait, what? Libya would be six or seven hours ahead of Eastern US time, and it's late enough for your daughter to have *sent herself to bed*. Surely there's not enough time left on the night shift in Tripoli for the bombers to make it?
+Wait, what? Libya would be six or seven hours ahead of Eastern U.S. time, and it's late enough for your daughter to have *sent herself to bed*. Surely there's not enough time left on the night shift in Tripoli for the bombers to make it?
 
 ### NEW Plot Bunny: The virtue of a proportional response
 

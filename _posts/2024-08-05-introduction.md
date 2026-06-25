@@ -17,7 +17,7 @@ It all started after I graduated high school, so I suppose you could say I'm som
 
 ![Sorkin works for the screen](assets/img/000-AllWorks.png "Sorkin Works for the Screen")
 
-To date, Mr. Sorkin has written for four TV shows and received writing credit on ten movies. Of those four TV shows, three of them... are about TV shows, as is one of his movies. The remaining TV show takes place inside the US government, as do two of his movies. Five of the remaining movies have at least one scene that takes place inside a deposition or a court room — and seven of his movies are biopics retelling the stories of historical figures or events.
+To date, Mr. Sorkin has written for four TV shows and received writing credit on ten movies. Of those four TV shows, three of them... are about TV shows, as is one of his movies. The remaining TV show takes place inside the U.S. government, as do two of his movies. Five of the remaining movies have at least one scene that takes place inside a deposition or a court room — and seven of his movies are biopics retelling the stories of historical figures or events.
 
 ![Sorkin works for the screen, annotated](/assets/img/000-AllWorksAnnotated.png "Sorkin Works for the Screen, Annotated")
 
