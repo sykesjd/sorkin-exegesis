@@ -27,7 +27,7 @@ GEM
     benchmark (0.5.0)
     bigdecimal (3.3.1)
     colorator (1.1.0)
-    concurrent-ruby (1.3.6)
+    concurrent-ruby (1.3.7)
     console (1.34.3)
       fiber-annotation
       fiber-local (~> 1.1)
@@ -115,9 +115,9 @@ GEM
     logger (1.7.0)
     mercenary (0.4.0)
     metrics (0.15.0)
-    nokogiri (1.19.3-arm64-darwin)
+    nokogiri (1.19.4-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.19.3-x86_64-linux-gnu)
+    nokogiri (1.19.4-x86_64-linux-gnu)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -161,11 +161,12 @@ PLATFORMS
 
 DEPENDENCIES
   addressable (>= 2.9.0)
+  concurrent-ruby (>= 1.3.7)
   google-protobuf (>= 4.27.5)
   html-proofer (~> 5.0)
   jekyll-theme-chirpy!
   json (>= 2.19.2)
-  nokogiri (>= 1.19.3)
+  nokogiri (>= 1.19.4)
   rexml (>= 3.4.2)
   webrick (>= 1.8.2)
 

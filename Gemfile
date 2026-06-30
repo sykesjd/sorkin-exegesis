@@ -11,7 +11,8 @@ group :test do
   gem "rexml", ">= 3.4.2"
   gem "google-protobuf", ">= 4.27.5"
   gem "webrick", ">= 1.8.2"
-  gem "nokogiri", ">= 1.19.3"
+  gem "nokogiri", ">= 1.19.4"
   gem "json", ">= 2.19.2"
   gem "addressable", ">= 2.9.0"
+  gem "concurrent-ruby", ">= 1.3.7"
 end
