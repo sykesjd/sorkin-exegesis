@@ -47,10 +47,7 @@ GEM
       fiber-storage
     fiber-storage (1.0.1)
     forwardable-extended (2.6.0)
-    google-protobuf (4.33.5-arm64-darwin)
-      bigdecimal
-      rake (>= 13)
-    google-protobuf (4.33.5-x86_64-linux-gnu)
+    google-protobuf (4.33.5)
       bigdecimal
       rake (>= 13)
     hashery (2.1.2)
@@ -102,7 +99,7 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    json (2.19.2)
+    json (2.21.1)
     kramdown (2.5.2)
       rexml (>= 3.4.4)
     kramdown-parser-gfm (1.1.0)
@@ -165,13 +162,13 @@ DEPENDENCIES
   google-protobuf (>= 4.27.5)
   html-proofer (~> 5.0)
   jekyll-theme-chirpy!
-  json (>= 2.19.2)
+  json (>= 2.19.9)
   nokogiri (>= 1.19.4)
   rexml (>= 3.4.2)
   webrick (>= 1.8.2)
 
 RUBY VERSION
-   ruby 3.3.11p205
+   ruby 4.0.6p0
 
 BUNDLED WITH
    2.4.19
