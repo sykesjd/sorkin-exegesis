@@ -310,6 +310,8 @@ Every time I watch this movie, I find this scene to be awkward and so thoroughly
 
 ### NEW Sorkin Name: Dawson
 
+### NEW Sorkin Name: Downey
+
 > GALLOWAY: Excuse me! I wanted to talk to you about Corporal Dawson and Private Downey.
 
 Once again, Kaffee asking another Navy officer to join his softball team is cut from the final product ("You want to suit up?"). His ball team got no love from the director — just as well, I wouldn't want to aid anyone wearing a Red Sox hat, either.
