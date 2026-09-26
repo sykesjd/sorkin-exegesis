@@ -380,7 +380,10 @@ I'm not sure the Secret Service would allow that...
 > SHEPHERD: The day the government starts subsidizing private schools is the day we give up on public education.
 > 
 > ED SEC'Y: I know the proposal only scratches the surface, but it's the least we can do.
-> 
+
+### RETURNING Sorkin Name: Jerry
+<sup>Previous instance: _A Few Good Men_</sup>
+
 > SHEPHERD: We're already doing the least we can do, but I can't think of anything better, so we'll go with this for now. _(to HUD SEC'Y)_ Jerry, say hello to Linda for me, and if I don't see you again, have a good Thanksgiving.
 
 He evidently doesn't see "Jerry" every day, but is still able to commit his name to memory. I guess there's a cutoff of some sort on whose names he remembers?<sup>foreshadowing detected</sup>

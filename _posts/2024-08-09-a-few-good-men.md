@@ -83,12 +83,14 @@ Damn, you certainly know how to get to the point, sir. I know a certain film abo
 
 [Julius and Ethel Rosenberg](https://en.wikipedia.org/wiki/Julius_and_Ethel_Rosenberg) were members of the Communist Party who in 1951 were convicted of espionage under the U.S. Espionage Act for passing state secrets to the Soviet Union. They were executed two years later, during which time a campaign for clemency failed spectacularly and the execution itself got delayed to prevent the two Jews from being executed on the Sabbath. I suppose that technically lines up to three "cases" in two years?
 
-### NEW Dialogue Motif: Crawling up one's ass
+### NEW Sorkin Name: Jerry
 
 > GIBBS: She's not cut out for litigation.
 > 
 > LAWRENCE: She's a hell of an investigator, Jerry —
-> 
+
+### NEW Dialogue Motif: Crawling up one's ass
+
 > GIBBS: _(interrupting)_ In Internal Affairs, sure. She can crawl up a lawyer's ass with the best of 'em...
 
 Ew... I hope, for her sake, that lawyer is gay.
